@@ -38,8 +38,8 @@ The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 
 1. Clone or download the repository
 2. Make sure Python is installed
-3. Install dependencies:
-4. Run:
+3. Install dependencies: pip install pandas matplotlib seaborn
+4. Run: python churn.analysis.py
 
 
 ---

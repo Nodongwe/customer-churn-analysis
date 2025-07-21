@@ -1,10 +1,10 @@
-# 📊 Customer Churn Analysis
+## 📊 Customer Churn Analysis
 
 This is a beginner-friendly data analysis project that explores customer churn behavior using Python. The goal is to find patterns in the data that help explain why customers leave.
 
 ---
 
-## 📁 Dataset
+### 📁 Dataset
 
 The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 - Demographics
@@ -16,7 +16,7 @@ The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 
 ---
 
-## 🛠️ Tools Used
+### 🛠️ Tools Used
 
 - Python
 - Pandas
@@ -25,7 +25,7 @@ The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 
 ---
 
-## 📈 Analysis Summary
+### 📈 Analysis Summary
 
 - Loaded and cleaned the dataset
 - Visualized churn by gender
@@ -34,7 +34,7 @@ The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 
 ---
 
-## 🚀 How to Run This Project
+### 🚀 How to Run This Project
 
 1. Clone or download the repository
 2. Make sure Python is installed
@@ -44,7 +44,7 @@ The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 
 ---
 
-## 🙋 About Me
+### 🙋 About Me
 
 **Lusanda Nodongwe**  
 Aspiring Business Intelligence and Data Analyst  

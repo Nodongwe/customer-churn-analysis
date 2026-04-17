@@ -47,6 +47,6 @@ The dataset is a recent customer churn dataset sourced from Kaggle. It includes:
 ### 🙋 About Me
 
 **Lusanda Nodongwe**  
-Aspiring Business Intelligence and Data Analyst  
-📍 George, South Africa  
+Data Analyst  
+📍 Cape Town, South Africa  
 📧 Nodongwe@outlook.com
